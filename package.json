@@ -1,5 +1,5 @@
 {
-  "name": "edi-cam",
+  "name": "thanh-edit",
   "private": true,
   "scripts": {
     "start": "node server.js"
